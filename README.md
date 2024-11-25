@@ -1,2 +1,2 @@
-# gogi-eottae
-Beef Image Grading Classification
+# 고기 어때
+- 소고기 등급 분류 모델 구축
